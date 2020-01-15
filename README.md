@@ -1,2 +1,2 @@
-# Win7Common
-Windows 7 Common Image
+# SCCM Install Scripts 
+PS Scripts for installing different applications.
